@@ -1,6 +1,6 @@
 # ExampleApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+I created this project as generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
 ## Development server
 
